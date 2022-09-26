@@ -1,0 +1,10 @@
+CORS = Cross-origin Resource Sharing
+
+Sistema de protecao entre o navegador e o servidor em que o acesso fica restrito
+
+-- Permissao de Endereco (Origem)
+-- Permissao de Metodo (Verbo)
+-- Permissao de Cabecalho (Headers)
+
+
+As propriedades do CORS podem ser alteradas em config/cors.php
